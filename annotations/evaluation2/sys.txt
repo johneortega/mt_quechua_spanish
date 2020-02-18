@@ -1,0 +1,5 @@
+5 = morfessor_qu_es
+4 = apertium 
+3 = qu_es_no_bpe
+2 = bpe_senrich_qu_fi_es
+1 = bpe_guided_qu_fi_es

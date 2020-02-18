@@ -1,0 +1,3 @@
+3 = apertium
+2 = bpe_guided
+1 = bpe_senrich
